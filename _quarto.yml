@@ -10,8 +10,8 @@ website:
     right:
       - href: index.qmd
         text: About
-#      - href: research.qmd
-#        text: Research themes
+      - href: research.qmd
+        text: Research themes
       - href: publications.qmd
         text: Publications
       - href: talks.qmd
