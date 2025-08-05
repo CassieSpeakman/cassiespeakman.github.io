@@ -2,6 +2,24 @@
 title: "Research themes"
 ---
 
-(page in progress)
+I have a broad range of research interests that each center around understanding and predicting how animal populations respond to changes in their environment. I'm also interested in how to identify effective, evidence-based management strategies for threatened or invasive species. My research covers three inter-related themes: 1) mechanisms of impact, 2) population modelling, and 3) decision-making under uncertainty.
 
-I have a broad range of research interests that each center around understanding and predicting how wildlife populations respond to human activity. These themes include foraging and spatial ecology, reproductive strategies, bioenergetics, and population dynamics.
+### Mechanisms of impact
+
+To effectively manage biodiversity, we need to understand how populations respond to threats and management actions. However, predicting population-level responses remains challenging since animal populations are typically exposed to multiple concurrent threats. These threats may interact with each other, or with management actions, to produce unexpected population impacts. Similarly, indirect stressors can have cumulative impacts on populations.
+
+While mechanisms are sometimes considered when predicting population responses to threats, these same mechanisms can apply to management actions thus allowing for management strategy effectiveness to be evaluated, even for species exposed to multiple threats. Modelling these mechanistic pathways can thus provide crucial insights into how, when, and why stressors and management actions impact animal populations.
+
+This is my primary area of research, where I apply quantitative models to understand when, where, and why animals respond to environmental change. Within this theme, I'm interested in foraging and movement ecology, bioenergetics, physiological adaptations, reproductive investment, and how individual-level differences influence population-level responses.
+
+### Decision-making under uncertainty
+
+Decision-making is challenging when dealing with competing interests, various constraints, and substantial uncertainty. This is true both for animals deciding whether to nourish themselves or their offspring and for conservation managers deciding which actions to take to conserve a species or ecosystem. To address these issues, I use dynamic optimisation model to identify which actions should be taken given the state of a system.
+
+While methods exist to set biodiversity conservation priorities across multiple species, particularly in spatial planning, individual species management approaches are (i) hampered by a lack of robust models for predicting outcomes of management based on fundamental ecological processes, and (ii) poor integration of models into decision processes based on decision theory.
+
+### Population modelling
+
+To understand how the mechanisms of impact translate into population-level responses, I used a range of population modelling tools. I have a particular interest in individual-based modelling because of their flexibility and suitability for modelling complex systems. Mechanistic models, which can represent the pathways that threats can act on a population, link changes in individual behaviour and physiology to changes in population dynamics.
+
+Acknowledging the challenges in deciding on appropriate modelling tools for predicting human impacts on animal populations, myself and collaborators looked at the state-of-the-art, providing a cross-taxa overview on commonly used approaches, and provided guidance on how to select mechanisms and models to suit different management needs.

@@ -7,6 +7,7 @@ format:
 
 ## **Workshops**
 
+-   Jun 2025: "Individual‑based models in NetLogoR", Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), Montpellier, France
 -   Dec 2022: "*Dynamic models in behavioural ecology"*, Ecological Society of Australia & Society for Conservation Biology Oceania joint conference, Wollongong, Australia
 
 ## **Invited Talks**
@@ -24,17 +25,10 @@ format:
 -   2021: Marine Wildlife (SLE350), Deakin University, "*Modelling population consequences of natural and anthropogenic disturbance*"
 -   2021: Animal Behaviour (BIO3052), Monash University, "*Pinniped behaviour*"
 
-## **Contributed Talks**
+## **Contributed Talks (5 most recent)**
 
 -   Speakman, CN, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Gallagher, CA, Gimenez, O, Giraudoux, P, Fryxell, JM, Marneweck, C, McHuron, EA, Rastello, K, Ruette, S, Salguero-Gomez, R, & Smallegange, I (**2024**) *Understanding and predicting population consequences of anthropogenic disturbances: Current approaches and novel opportunities*. Ecological Society of Australia Conference, Melbourne, Australia
 -   Speakman, CN, McHuron, EA, & Arnould, JPY (**2024**) *Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator*. Société Française d’Écologie et Évolution (SFE²) International Congress in Ecology & Evolution, Lyon, France
 -   Speakman, CN, Ruette, S, & Gimenez, O (**2024**) *Understanding the population consequences of human disturbance on small carnivores*. Journée Scientifique des Postdoctorants du LabEx CeMEB, Montpellier, France
 -   Speakman, CN, McHuron, EA, & Arnould, JPY (**2023**) *Using state‑dependent life‑history theory models to explore individual- and population‑level responses to environmental change in a marine predator*. International Society for Ecological Modelling Conference, Scarborough, Canada
 -   Speakman, CN, McHuron, EA, & Arnould, JPY (**2022**) *Using state-dependent life-history theory models to explore individual and population level responses to environmental change in a marine predator*. Working Group on Integrative, Physical-biological and Ecosystem Modelling (WGIPEM) Meeting, Texel, The Netherlands
--   Speakman, CN, McHuron, EA, & Arnould, JPY (**2022**) *Fear vs. Food: Exploring behavioural and population-level responses to environmental change and predation pressure in Australian fur seals*. Victorian Biodiversity Conference, Melbourne, Australia (virtual); ESA-SCBO Joint Conference, Wollongong, Australia
--   Speakman, CN, & Arnould, JPY (**2021**) *Developing a state-dependent life-history theory model for Australian fur seals*. Centre for Integrative Ecology Annual Conference, Melbourne, Australia (virtual)
--   Speakman, CN, Lloyd, ST, Camprasse, EMC, Hoskins, AJ, Hindell, MA, Costa, DP, & Arnould, JPY (**2021**) *Consistency in foraging behaviour improves foraging success and efficiency in a marine top predator*. Victorian Biodiversity Conference (virtual) & ANZSCSMM Student Chapter Meeting (virtual)
--   Speakman, CN, Hoskins, AJ, Hindell, MA, Costa, DP, & Arnould, JPY (**2020**) *Temporal and spatial influences on foraging behaviour and hunting success in female AUFS*. Ecological Society of Australia Conference, Wollongong, Australia (virtual)
--   Speakman, CN (**2020**) *Environmental threats to a marine top-order predator, the Australian fur seal*. Centre for Integrative Ecology Annual Conference, Melbourne, Australia
--   Speakman, CN, Robb, K, & Johnstone, CP (**2019**) *No escape from wave impacts for Australian fur seals*. Victorian Biodiversity Conference, Melbourne, Australia
--   Speakman, CN, Robb, K, & Johnstone, CP (**2018**) *Influence of anthropogenic and natural disturbance on Australian fur seal behaviour at a popular ecotourism site in southern Port Phillip Bay, Victoria, Australia*. ANZSCSMM Student Chapter Meeting, Brisbane, Australia
