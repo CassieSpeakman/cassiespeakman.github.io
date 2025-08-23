@@ -10,11 +10,11 @@ title: "Publications"
 
 ## 2025
 
--   **Speakman, CN**, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Fryxell, J, Gallagher, GA, McHuron, EA, Rastello, K, Smallegange, I, Salguero-Gomez, R, Bonnaud, E, Duchamp, C, Giraudoux, P, Lacombe, S, Marneweck, C, Schroll, L, Tableau, A, Ruette, S, Gimenez, O (*in press*). Understanding and predicting population consequences of human disturbances: Current approaches and novel opportunities. Ecology Letters.
+-   **Speakman, CN**, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Fryxell, J, Gallagher, GA, McHuron, EA, Rastello, K, Smallegange, I, Salguero-Gomez, R, Bonnaud, E, Duchamp, C, Giraudoux, P, Lacombe, S, Marneweck, C, Schroll, L, Tableau, A, Ruette, S, Gimenez, O (2025). Understanding and predicting population consequences of human disturbances: Current approaches and novel opportunities. Ecology Letters. [Link](https://doi.org/10.1111/ele.70198)
 
 ## 2024
 
--   Speakman, CN, McHuron, \\& Arnould, JPY (2024). Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator. Frontiers in Marine Science. [Link](https://doi.org/10.3389/fmars.2024.1367655%7B10.3389/fmars.2024.1367655)
+-   Speakman, CN, McHuron, Arnould, JPY (2024). Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator. Frontiers in Marine Science. [Link](https://doi.org/10.3389/fmars.2024.1367655%7B10.3389/fmars.2024.1367655)
 
 -   Skogen, MD, Aarflot, JM, García-García, LM, Ji, R, Ruiz-Villarreal, M, Almroth-Rosell, E, Belgrano, Benkort, AD, Daewel, U, Edman, M, Friedland, R, Gao, S, Hill-Cruz, M, Hjøllo, SS, Huret, M, Kellner, JB, van Leeuwen, S, de Gamiz Zearra, AL, Maar, M, Mousing, EA, Peck, MA, Rollan, AP, Sailley, SF, Saraiva, S, Speakman, CN, Troost, T, Yumruktepe, VÇ (2024) Bridging the gap: Integrating models and observations for better ecosystem understanding. Marine Ecology Progress Series. [Link](https://doi.org/10.3354/meps14616) *\*Co‑authors listed in alphabetical order*
 
@@ -26,7 +26,7 @@ title: "Publications"
 
 -   McHuron, E, Adamczak, S, Arnould, JPY, Ashe, E, Booth, C, Bowen, W, Christiansen, F, Chudzinska, M, Costa, D, Fahlman, A, Farmer, N, Fortune, S, Gallagher, C, Keen, K, Madsen, P, McMahon, C, Nabe-Nielsen, J, Noren, D, Noren, S, Pirotta, E, Rosen, D, Speakman, CN, Villegas-Amtmann, S, Williams, R (2022) Key questions in marine mammal bioenergetics. Conservation Physiology. [Link](https://doi.org/10.1093/conphys/coac055) *\*Co‑authors listed in alphabetical order*
 
--   Geeson, JJ, Hobday, AJ, Speakman, CN, \\& Arnould, JPY (2022) Environmental influences on breeding biology and pup production in Australian fur seals. Royal Society Open Science. [Link](https://doi.org/10.1098/rsos.211052)
+-   Geeson, JJ, Hobday, AJ, Speakman, CN, Arnould, JPY (2022) Environmental influences on breeding biology and pup production in Australian fur seals. Royal Society Open Science. [Link](https://doi.org/10.1098/rsos.211052)
 
 ## 2021
 
