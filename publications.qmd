@@ -2,15 +2,9 @@
 title: "Publications"
 ---
 
-### In review
+## 2026
 
--   **Speakman, CN**, Gimenez, O, Schumaker, N, Watkins, S, Vandel J-M, Mathevet, M, Ruette, S, Devillard, S (*in review*). Accounting for spatial heterogeneity in trapping pressure and its impact on population dynamics of sympatric pine and stone martens. Landscape Ecology. [Preprint](https://doi.org/10.22541/au.175657517.75065229/v1)
-
--   CA Gallagher, M Chudzińska, S Railsback, J Nabe-Nielsen, RS Beltran, M Srinivasan, CN Speakman, S Barber-Meyer, A Buren, L Szangolies, R Joy, S Adamczak, J-P Desforges, LS Myers, NAM Tuhuter (*in review*) Beneath the surface: Approaches to represent biological processes and responses to disturbance in marine mammal models. Global Change Biology.
-
--   EA McHuron, C Gallagher, A Trites, **CN Speakman**, E Pirotta, K Keen, M Chadzinska, S Villegas, S Adamczek, C McMahon, DP Costa, D Rosen, N Thometz, C Booth (*in revision*) Good practices and considerations for the development of marine mammal bioenergetic models. Conservation Physiology.
-
--   LA Slaughter, CN Speakman, P Lacetera, & JPY Arnould (*in revision*) Estimating the cost of predator avoidance in Australian fur seals. PeerJ.
+-   **Speakman, CN**, Gimenez, O, Schumaker, N, Watkins, S, Vandel J-M, Mathevet, M, Ruette, S, Devillard, S (2026). Accounting for spatial heterogeneity in trapping pressure and its impact on population dynamics of sympatric pine and stone martens. Landscape Ecology. (https://doi.org/10.1007/s10980-025-02282-y)
 
 ## 2025
 
