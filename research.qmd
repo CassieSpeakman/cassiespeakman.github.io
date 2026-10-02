@@ -5,7 +5,6 @@ title: "Research themes"
 I am a quantitative and applied ecologist with a strong interest in the effective conservation and management of threatened and invasive species. My research uses quantitative approaches to study the behavioural, reproductive, and population ecology of wildlife populations to understand the implications of environmental change and management actions. Through my research, I aim to address two interconnected questions: 
 
 ### How do animal populations respond to environmental change?
-
 To effectively manage biodiversity, we need to understand how populations respond to threats and management actions. However, predicting population-level responses remains challenging since animal populations are typically exposed to multiple concurrent threats. These threats may interact with each other, or with management actions, to produce unexpected population impacts. Similarly, indirect stressors can have cumulative impacts on populations.
 
 While mechanisms are sometimes considered when predicting population responses to threats, these same mechanisms can apply to management actions thus allowing for management strategy effectiveness to be evaluated, even for species exposed to multiple threats. Modelling these mechanistic pathways can thus provide crucial insights into how, when, and why stressors and management actions impact animal populations.
@@ -13,7 +12,6 @@ While mechanisms are sometimes considered when predicting population responses t
 This is my primary area of research, where I apply quantitative models to understand when, where, and why animals respond to environmental change. Within this theme, I'm interested in foraging and movement ecology, bioenergetics, physiological adaptations, reproductive investment, and how individual-level differences influence population-level responses.
 
 ### How can we make management decisions that are robust to uncertainty?
-
 Conservation management increasingly takes place in complex, uncertain, and dynamic socioecological contexts. Decision analytic frameworks have emerged as an established means to address the need for structured support of conservation actions. To determine effective management strategies under uncertainty, my research links predictive models with decision analytic approaches. I work directly with practitioners to co-develop solutions to conservation and management challenges, leading to impact beyond academia.
 
 I am also interested in other aspects of decision theory, such as adaptive management and structured decision making, and how these can be effectively modelled to provide interpretable recommendations for policy makers and practitioners.
