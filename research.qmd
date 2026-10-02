@@ -16,6 +16,4 @@ This is my primary area of research, where I apply quantitative models to unders
 
 Conservation management increasingly takes place in complex, uncertain, and dynamic socioecological contexts. Decision analytic frameworks have emerged as an established means to address the need for structured support of conservation actions. To determine effective management strategies under uncertainty, my research links predictive models with decision analytic approaches. I work directly with practitioners to co-develop solutions to conservation and management challenges, leading to impact beyond academia.
 
-While methods exist to set biodiversity conservation priorities across multiple species, particularly in spatial planning, individual species management approaches are (i) hampered by a lack of robust models for predicting outcomes of management based on fundamental ecological processes, and (ii) poor integration of mathematical models into decision processes based on decision theory.
-
 I am also interested in other aspects of decision theory, such as adaptive management and structured decision making, and how these can be effectively modelled to provide interpretable recommendations for policy makers and practitioners.

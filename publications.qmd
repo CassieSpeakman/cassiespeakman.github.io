@@ -5,10 +5,9 @@ title: "Publications"
 ## 2026
 
 - Gimenez, O, Keller, AG, Marescot, L, Boettiger, C, **Speakman, CN** (2026). Using stochastic dynamic programming for making decisions about invasive species. bioRxiv. [Link](https://doi.org/10.64898/2026.09.05.749566)
+- **Speakman, CN**, Gimenez, O, Schumaker, N, Watkins, S, Vandel J-M, Mathevet, M, Ruette, S, Devillard, S (2026). Accounting for spatial heterogeneity in trapping pressure and its impact on population dynamics of sympatric pine and stone martens. Landscape Ecology. [Link](https://doi.org/10.1007/s10980-025-02282-y)
 
 ## 2025
-
-- **Speakman, CN**, Gimenez, O, Schumaker, N, Watkins, S, Vandel J-M, Mathevet, M, Ruette, S, Devillard, S (2026). Accounting for spatial heterogeneity in trapping pressure and its impact on population dynamics of sympatric pine and stone martens. Landscape Ecology. [Link](https://doi.org/10.1007/s10980-025-02282-y)
 
 - **Speakman, CN**, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Fryxell, J, Gallagher, GA, McHuron, EA, Rastello, K, Smallegange, I, Salguero-Gomez, R, Bonnaud, E, Duchamp, C, Giraudoux, P, Lacombe, S, Marneweck, C, Schroll, L, Tableau, A, Ruette, S, Gimenez, O (2025). Understanding and predicting population consequences of human disturbances: Current approaches and novel opportunities. Ecology Letters. [Link](https://doi.org/10.1111/ele.70198)
 
