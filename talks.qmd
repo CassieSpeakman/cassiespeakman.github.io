@@ -7,28 +7,33 @@ format:
 
 ## **Workshops**
 
--   Jun 2025: "Individual‑based models in NetLogoR", Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), Montpellier, France
--   Dec 2022: "*Dynamic models in behavioural ecology"*, Ecological Society of Australia & Society for Conservation Biology Oceania joint conference, Wollongong, Australia
+- Jan 2027: "Partial observability and management of ecological systems", International Statistical Ecology Conference 2027, Merida, Mexico
+- Oct 2025: "Dynamic models in behavioural ecology and population management", Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), Montpellier
+- Jun 2025: "Individual‑based models in NetLogoR", Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), Montpellier, France
+- Dec 2022: "*Dynamic models in behavioural ecology"*, Ecological Society of Australia & Society for Conservation Biology Oceania joint conference, Wollongong, Australia
 
 ## **Invited Talks**
 
--   Nov 2022: "*Dynamic models in behavioural ecology*", Quantitative and Applied Ecology Group, University of Melbourne
--   Oct 2022: "*Furry friends in our watery backyard*", Centre for Integrative Ecology's Wild Webinar series, Deakin University
--   Sep 2021: "*State-dependent life history theory models for conservation*", Centre for Integrative Ecology's Lunchtime Seminar series, Deakin University
--   Jul 2021: "*Panel: Conservation and Resilience - students in the field*", Island Whale Festival, Phillip Island Nature Parks
+- June 2026, "Reintroduction strategies for the European mink", OFB‑DREAL‑GRIFS European mink National Action Plan coordination meeting
+- June 2026: "*Agent‑based modelling showcase: Optimal reintroduction strategies*", Quantitaive & Applied Ecology Group, University of Melbourne
+- Jun 2026: "*Optimal reintroduction strategies for the critically endangered European mink*", Mathematical Ecology, Epidemiology and Biosecurity Group, University of Melbourne
+- Nov 2022: "*Dynamic models in behavioural ecology*", Quantitative and Applied Ecology Group, University of Melbourne
+- Oct 2022: "*Furry friends in our watery backyard*", Centre for Integrative Ecology's Wild Webinar series, Deakin University
+- Sep 2021: "*State-dependent life history theory models for conservation*", Centre for Integrative Ecology's Lunchtime Seminar series, Deakin University
+- Jul 2021: "*Panel: Conservation and Resilience - students in the field*", Island Whale Festival, Phillip Island Nature Parks
 
 ## **Guest Lectures**
 
--   2023: Animal Behaviour (SLE307), Deakin University, "*Dispersal, migration and navigation*"
--   2023: Animal Behaviour (SLE307), Deakin University, "*Play behaviour*"
--   2023: Animal Behaviour (SLE307), Deakin University, "*Animal communication*"
--   2021: Marine Wildlife (SLE350), Deakin University, "*Modelling population consequences of natural and anthropogenic disturbance*"
--   2021: Animal Behaviour (BIO3052), Monash University, "*Pinniped behaviour*"
+- 2023: Animal Behaviour (SLE307), Deakin University, "*Dispersal, migration and navigation*"
+- 2023: Animal Behaviour (SLE307), Deakin University, "*Play behaviour*"
+- 2023: Animal Behaviour (SLE307), Deakin University, "*Animal communication*"
+- 2021: Marine Wildlife (SLE350), Deakin University, "*Modelling population consequences of natural and anthropogenic disturbance*"
+- 2021: Animal Behaviour (BIO3052), Monash University, "*Pinniped behaviour*"
 
 ## **Contributed Talks (5 most recent)**
 
--   Speakman, CN, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Gallagher, CA, Gimenez, O, Giraudoux, P, Fryxell, JM, Marneweck, C, McHuron, EA, Rastello, K, Ruette, S, Salguero-Gomez, R, & Smallegange, I (**2024**) *Understanding and predicting population consequences of anthropogenic disturbances: Current approaches and novel opportunities*. Ecological Society of Australia Conference, Melbourne, Australia
--   Speakman, CN, McHuron, EA, & Arnould, JPY (**2024**) *Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator*. Société Française d’Écologie et Évolution (SFE²) International Congress in Ecology & Evolution, Lyon, France
--   Speakman, CN, Ruette, S, & Gimenez, O (**2024**) *Understanding the population consequences of human disturbance on small carnivores*. Journée Scientifique des Postdoctorants du LabEx CeMEB, Montpellier, France
--   Speakman, CN, McHuron, EA, & Arnould, JPY (**2023**) *Using state‑dependent life‑history theory models to explore individual- and population‑level responses to environmental change in a marine predator*. International Society for Ecological Modelling Conference, Scarborough, Canada
--   Speakman, CN, McHuron, EA, & Arnould, JPY (**2022**) *Using state-dependent life-history theory models to explore individual and population level responses to environmental change in a marine predator*. Working Group on Integrative, Physical-biological and Ecosystem Modelling (WGIPEM) Meeting, Texel, The Netherlands
+- Speakman, CN, *et al.* (**2025**) *Understanding and predicting population consequences of anthropogenic disturbances: Current approaches and novel opportunities*. British Ecological Society Conference, Edinburgh, Scotland
+- Speakman, CN, *et al.* (**2024**) *Understanding and predicting population consequences of anthropogenic disturbances: Current approaches and novel opportunities*. Ecological Society of Australia Conference, Melbourne, Australia
+- Speakman, CN, McHuron, EA, & Arnould, JPY (**2024**) *Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator*. Société Française d’Écologie et Évolution (SFE²) International Congress in Ecology & Evolution, Lyon, France
+- Speakman, CN, Ruette, S, & Gimenez, O (**2024**) *Understanding the population consequences of human disturbance on small carnivores*. Journée Scientifique des Postdoctorants du LabEx CeMEB, Montpellier, France
+- Speakman, CN, McHuron, EA, & Arnould, JPY (**2023**) *Using state‑dependent life‑history theory models to explore individual- and population‑level responses to environmental change in a marine predator*. International Society for Ecological Modelling Conference, Scarborough, Canada

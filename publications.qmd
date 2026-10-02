@@ -4,42 +4,44 @@ title: "Publications"
 
 ## 2026
 
--   **Speakman, CN**, Gimenez, O, Schumaker, N, Watkins, S, Vandel J-M, Mathevet, M, Ruette, S, Devillard, S (2026). Accounting for spatial heterogeneity in trapping pressure and its impact on population dynamics of sympatric pine and stone martens. Landscape Ecology. (https://doi.org/10.1007/s10980-025-02282-y)
+- Gimenez, O, Keller, AG, Marescot, L, Boettiger, C, **Speakman, CN** (2026). Using stochastic dynamic programming for making decisions about invasive species. bioRxiv. [Link](https://doi.org/10.64898/2026.09.05.749566)
 
 ## 2025
 
--   **Speakman, CN**, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Fryxell, J, Gallagher, GA, McHuron, EA, Rastello, K, Smallegange, I, Salguero-Gomez, R, Bonnaud, E, Duchamp, C, Giraudoux, P, Lacombe, S, Marneweck, C, Schroll, L, Tableau, A, Ruette, S, Gimenez, O (2025). Understanding and predicting population consequences of human disturbances: Current approaches and novel opportunities. Ecology Letters. [Link](https://doi.org/10.1111/ele.70198)
+- **Speakman, CN**, Gimenez, O, Schumaker, N, Watkins, S, Vandel J-M, Mathevet, M, Ruette, S, Devillard, S (2026). Accounting for spatial heterogeneity in trapping pressure and its impact on population dynamics of sympatric pine and stone martens. Landscape Ecology. [Link](https://doi.org/10.1007/s10980-025-02282-y)
+
+- **Speakman, CN**, Bull, S, Cubaynes, S, Davis, K, Devillard, S, Fryxell, J, Gallagher, GA, McHuron, EA, Rastello, K, Smallegange, I, Salguero-Gomez, R, Bonnaud, E, Duchamp, C, Giraudoux, P, Lacombe, S, Marneweck, C, Schroll, L, Tableau, A, Ruette, S, Gimenez, O (2025). Understanding and predicting population consequences of human disturbances: Current approaches and novel opportunities. Ecology Letters. [Link](https://doi.org/10.1111/ele.70198)
 
 ## 2024
 
--   Speakman, CN, McHuron, Arnould, JPY (2024). Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator. Frontiers in Marine Science. [Link](https://doi.org/10.3389/fmars.2024.1367655%7B10.3389/fmars.2024.1367655)
+- Speakman, CN, McHuron, Arnould, JPY (2024). Vulnerability to fluctuations in prey and predation landscape in a central place foraging marine predator. Frontiers in Marine Science. [Link](https://doi.org/10.3389/fmars.2024.1367655%7B10.3389/fmars.2024.1367655)
 
--   Skogen, MD, Aarflot, JM, García-García, LM, Ji, R, Ruiz-Villarreal, M, Almroth-Rosell, E, Belgrano, Benkort, AD, Daewel, U, Edman, M, Friedland, R, Gao, S, Hill-Cruz, M, Hjøllo, SS, Huret, M, Kellner, JB, van Leeuwen, S, de Gamiz Zearra, AL, Maar, M, Mousing, EA, Peck, MA, Rollan, AP, Sailley, SF, Saraiva, S, Speakman, CN, Troost, T, Yumruktepe, VÇ (2024) Bridging the gap: Integrating models and observations for better ecosystem understanding. Marine Ecology Progress Series. [Link](https://doi.org/10.3354/meps14616) *\*Co‑authors listed in alphabetical order*
+- Skogen, MD, Aarflot, JM, García-García, LM, Ji, R, Ruiz-Villarreal, M, Almroth-Rosell, E, Belgrano, Benkort, AD, Daewel, U, Edman, M, Friedland, R, Gao, S, Hill-Cruz, M, Hjøllo, SS, Huret, M, Kellner, JB, van Leeuwen, S, de Gamiz Zearra, AL, Maar, M, Mousing, EA, Peck, MA, Rollan, AP, Sailley, SF, Saraiva, S, Speakman, CN, Troost, T, Yumruktepe, VÇ (2024) Bridging the gap: Integrating models and observations for better ecosystem understanding. Marine Ecology Progress Series. [Link](https://doi.org/10.3354/meps14616) *\*Co‑authors listed in alphabetical order*
 
 ## 2023
 
--   Geeson, JJ, Hobday, AJ, Speakman, CN, Arnould, JPY (2023) Long-term decline in body condition of female Australian fur seals: potential causes and implications. Frontiers in Marine Science. [Link](https://doi.org/10.3389/fmars.2023.1231337%7B10.3389/fmars.2023.1231337)
+- Geeson, JJ, Hobday, AJ, Speakman, CN, Arnould, JPY (2023) Long-term decline in body condition of female Australian fur seals: potential causes and implications. Frontiers in Marine Science. [Link](https://doi.org/10.3389/fmars.2023.1231337%7B10.3389/fmars.2023.1231337)
 
 ## 2022
 
--   McHuron, E, Adamczak, S, Arnould, JPY, Ashe, E, Booth, C, Bowen, W, Christiansen, F, Chudzinska, M, Costa, D, Fahlman, A, Farmer, N, Fortune, S, Gallagher, C, Keen, K, Madsen, P, McMahon, C, Nabe-Nielsen, J, Noren, D, Noren, S, Pirotta, E, Rosen, D, Speakman, CN, Villegas-Amtmann, S, Williams, R (2022) Key questions in marine mammal bioenergetics. Conservation Physiology. [Link](https://doi.org/10.1093/conphys/coac055) *\*Co‑authors listed in alphabetical order*
+- McHuron, E, Adamczak, S, Arnould, JPY, Ashe, E, Booth, C, Bowen, W, Christiansen, F, Chudzinska, M, Costa, D, Fahlman, A, Farmer, N, Fortune, S, Gallagher, C, Keen, K, Madsen, P, McMahon, C, Nabe-Nielsen, J, Noren, D, Noren, S, Pirotta, E, Rosen, D, Speakman, CN, Villegas-Amtmann, S, Williams, R (2022) Key questions in marine mammal bioenergetics. Conservation Physiology. [Link](https://doi.org/10.1093/conphys/coac055) *\*Co‑authors listed in alphabetical order*
 
--   Geeson, JJ, Hobday, AJ, Speakman, CN, Arnould, JPY (2022) Environmental influences on breeding biology and pup production in Australian fur seals. Royal Society Open Science. [Link](https://doi.org/10.1098/rsos.211052)
+- Geeson, JJ, Hobday, AJ, Speakman, CN, Arnould, JPY (2022) Environmental influences on breeding biology and pup production in Australian fur seals. Royal Society Open Science. [Link](https://doi.org/10.1098/rsos.211052)
 
 ## 2021
 
--   Speakman, CN, Hoskins, AJ, Hindell, MA, Costa, DP, Hartog, JR, Hobday, AJ, Arnould, JPY (2021) Influence of environmental variation on spatial distribution and habitat-use in a benthic foraging marine predator. Royal Society Open Science. [Link](https://doi.org/10.1098/rsos.211052)
+- Speakman, CN, Hoskins, AJ, Hindell, MA, Costa, DP, Hartog, JR, Hobday, AJ, Arnould, JPY (2021) Influence of environmental variation on spatial distribution and habitat-use in a benthic foraging marine predator. Royal Society Open Science. [Link](https://doi.org/10.1098/rsos.211052)
 
--   Speakman, CN, Lloyd, ST, Camprasse, EMC, Hoskins, AJ, Hindell, MA, Costa, DP, Arnould, JPY (2021) Intertrip consistency in hunting behavior improves foraging success and efficiency in a marine top predator. Ecology & Evolution. [Link](https://doi.org/10.1002/ece3.7337)
+- Speakman, CN, Lloyd, ST, Camprasse, EMC, Hoskins, AJ, Hindell, MA, Costa, DP, Arnould, JPY (2021) Intertrip consistency in hunting behavior improves foraging success and efficiency in a marine top predator. Ecology & Evolution. [Link](https://doi.org/10.1002/ece3.7337)
 
--   Meyers, N, Speakman, CN, Dorville, NAS-Y, Hindell, MA, Semmens, J, Monk, J, Baylis, AMM, Ierodiaconou, D, Hoskins, AJ, Marshall, GJ, Abernathy, K, Arnould, JPY (2021) The cost of a meal: factors influencing prey profitability in Australian fur seals. PeerJ. [Link](https://doi.org/10.7717/peerj.12608)
+- Meyers, N, Speakman, CN, Dorville, NAS-Y, Hindell, MA, Semmens, J, Monk, J, Baylis, AMM, Ierodiaconou, D, Hoskins, AJ, Marshall, GJ, Abernathy, K, Arnould, JPY (2021) The cost of a meal: factors influencing prey profitability in Australian fur seals. PeerJ. [Link](https://doi.org/10.7717/peerj.12608)
 
--   Rodriguez-Malagon, MA, Speakman, CN, Sutton, GJ, Angel, LP, Arnould, JPY (2021) Temporal and spatial isotopic variability of marine prey species in south-eastern Australia: Potential implications for predator diet studies. PLoS ONE. [Link](https://doi.org/10.1371/journal.pone.0259961)
+- Rodriguez-Malagon, MA, Speakman, CN, Sutton, GJ, Angel, LP, Arnould, JPY (2021) Temporal and spatial isotopic variability of marine prey species in south-eastern Australia: Potential implications for predator diet studies. PLoS ONE. [Link](https://doi.org/10.1371/journal.pone.0259961)
 
 ## 2020
 
--   Speakman, CN, Hoskins, AJ, Hindell, MA, Costa, DP, Hartog, JR, Hobday, AJ, Arnould, JPY (2020) Environmental influences on foraging effort, success and efficiency in female Australian fur seals. Scientific Reports. [Link](https://doi.org/10.1038/s41598-020-73579-y)
+- Speakman, CN, Hoskins, AJ, Hindell, MA, Costa, DP, Hartog, JR, Hobday, AJ, Arnould, JPY (2020) Environmental influences on foraging effort, success and efficiency in female Australian fur seals. Scientific Reports. [Link](https://doi.org/10.1038/s41598-020-73579-y)
 
--   Speakman, CN, Johnstone, CP, Robb, K (2020) Increased alertness behavior in Australian fur seals (*Arctocephalus pusillus doriferus*) at a high vessel traffic haul-out site. Marine Mammal Science. [Link](https://doi.org/10.1111/mms.12654)
+- Speakman, CN, Johnstone, CP, Robb, K (2020) Increased alertness behavior in Australian fur seals (*Arctocephalus pusillus doriferus*) at a high vessel traffic haul-out site. Marine Mammal Science. [Link](https://doi.org/10.1111/mms.12654)
 
--   Rodriguez-Malagon, MA, Angel, LP, Speakman, CN, Arnould, JPY (2020) Inter- and intra-individual variation in the diet of Australasian gannets *Morus serrator*. Marine Ecology Progress Series. [Link](https://doi.org/10.3354/meps13225)
+- Rodriguez-Malagon, MA, Angel, LP, Speakman, CN, Arnould, JPY (2020) Inter- and intra-individual variation in the diet of Australasian gannets *Morus serrator*. Marine Ecology Progress Series. [Link](https://doi.org/10.3354/meps13225)
